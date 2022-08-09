@@ -1,0 +1,9 @@
+/* 커멘트 시작   
+	점(.)은 classs, #은 id  
+커맨트 끝 */
+@charset "UTF-8";
+h2 { font-size: 20px; color: red; font-family: "고딕"; }
+p { font-size: 40px; color: green; font-family: "굴림체"; }
+.a1 { background-color: pink; color: yellow; }
+#a2 { background-color: red; color:  white; }
+#a3 {background-color: blue; color: white; }
